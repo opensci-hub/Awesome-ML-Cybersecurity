@@ -14,8 +14,8 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 - [Deep Learning Papers](#deep-learning-papers)
 - [Deep Reinforcement Learning Papers](#deep-reinforcement-learning-papers)
 - [Artificial Intelligence Resources on the Internet 2019](AIResources.pdf)
----
 - [CC0 License](#License)
+---
 
 ## Dataset Repositories
 | Repository | Description |
@@ -79,8 +79,11 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 - [Data Science and Machine Learning for Infosec](http://www.pentesteracademy.com/course?id=30)
 
 ## Links Domain
+- [Coursera](https://www.coursera.org/)
 - [Blackhat](https://www.blackhat.com/)
 - [Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking)
+- [Awesome Machine Learning for Cyber Security](https://github.com/jivoi/awesome-ml-for-cybersecurity)
+- [Awesome-AI-Security](https://github.com/RandomAdversary/Awesome-AI-Security)
 
 ## References for reseacher
 [1] [SSCNets: A Selective Sobel Convolution-based Technique to Enhance the Robustness of Deep Neural Networks against Security Attacks](https://arxiv.org/ftp/arxiv/papers/1811/1811.01443.pdf)<br/>
