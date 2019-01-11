@@ -1,7 +1,7 @@
-![Awesome-ML-Cybersecurity](awesome_ai_cybersecurity.png)
-# Awesome Machine Learning & Cyber Security [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+![Awesome-ML-Cybersecurity](ml_cybersecurity.png)
+# Awesome Machine Learning And Cybersecurity [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-**A curated list of Machine Learning and Cybersecurity.**</br>
+**A curated list of Machine Learning and Cybersecurity from multiple sources to help make your studies easier.**</br>
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
 
 ## Contents
@@ -151,5 +151,5 @@ Character-level CNN](https://arxiv.org/pdf/1811.08641.pdf)<br/>
 - [Benchmarking Deep Reinforcement Learning for Continuous Control](https://arxiv.org/abs/1604.06778), Y. Duan et al., ICML, 2016.
 
 ## License
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0)
-> To the extent possible under law, [Noa Swartz](https://github.com/fetaxyu) has waived all copyright and related or neighboring rights to this work.
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0)</br>
+To the extent possible under law, [Noa Swartz](https://github.com/fetaxyu) has waived all copyright and related or neighboring rights to this work.
