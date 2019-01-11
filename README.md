@@ -9,6 +9,7 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 - [Books](#Books)
 - [Speeches](#Speeches)
 - [Tutorials](#Tutorials)
+- [Links Domain](#links-domain)
 - [References for reseacher](#references-for-reseacher)
 - [Deep Learning Papers](#deep-learning-papers)
 - [Deep Reinforcement Learning Papers](#deep-reinforcement-learning-papers)
@@ -75,6 +76,10 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 - [Deep Session Learning for Cyber Security](https://blog.cyberreboot.org/deep-session-learning-for-cyber-security-e7c0f6804b81#.eo2m4alid)
 - [Data Mining for Cyber Security](http://web.stanford.edu/class/cs259d/)
 - [Data Science and Machine Learning for Infosec](http://www.pentesteracademy.com/course?id=30)
+
+## Links Domain
+- [Blackhat](https://www.blackhat.com/)
+- [Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking)
 
 ## References for reseacher
 [1] [SSCNets: A Selective Sobel Convolution-based Technique to Enhance the Robustness of Deep Neural Networks against Security Attacks](https://arxiv.org/ftp/arxiv/papers/1811/1811.01443.pdf)<br/>
