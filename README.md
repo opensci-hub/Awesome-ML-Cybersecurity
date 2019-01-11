@@ -39,11 +39,15 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 | [Masquerading User Data](http://www.schonlau.net/)| A data set with seeded masquerading users to compare various intrusion detection methods. |
 
 ## Books
+- [Artificial Intelligence In The 21st Century](https://www.amazon.com/Artificial-Intelligence-Century-Stephen-Lucci/dp/1683922239)
+- [Deep Learning](https://www.amazon.com/Deep-Learning-Adaptive-Computation-Machine/dp/0262035618)
 - [Data Mining and Machine Learning in Cybersecurity](https://www.amazon.com/Data-Mining-Machine-Learning-Cybersecurity/dp/1439839425)
 - [Machine Learning and Data Mining for Computer Security](https://www.amazon.com/Machine-Learning-Mining-Computer-Security/dp/184628029X)
 - [Network Anomaly Detection](https://www.amazon.com/Network-Anomaly-Detection-Learning-Perspective/dp/1466582081)
 - [Deep Learning For Web Security](https://www.amazon.cn/dp/B0788XQ5SN)
 - [Reinforcement Learning And GAN For Web Security](https://www.amazon.cn/dp/B07C9Y19BS)
+- [Multi-Agent Machine Learning:A Reinforcement Approach](https://www.amazon.com/Multi-Agent-Machine-Learning-Reinforcement-Approach/dp/111836208X)
+- [Reinforcement Learning:State-of-the-Art](https://www.amazon.com/Reinforcement-Learning-State-Art-Optimization/dp/364227644X)
 
 ## Speeches
 - [Using Machine Learning to Support Information Security](https://www.youtube.com/watch?v=tukidI5vuBs)
