@@ -1,7 +1,7 @@
 ![Awesome-AI-Cybersecurity](awesome_ai_cybersecurity.png)
-# Awesome-Artificial Intelligence-Cyber Security [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Artificial Intelligence & Cyber Security [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-**A Collection For Cyber Security &amp; Machine Learning.**</br>
+**A curated list of awesome resources for Artificial Intelligence and Cybersecurity.**</br>
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
 
 ## Dataset Repositories
