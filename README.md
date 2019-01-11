@@ -1,7 +1,7 @@
 # Awesome-AI-Cybersecurity [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-**A Collection For Cyber Security &amp; Machine Learning.**
-Your [contributions](https://github.com/fetaxyu/Awesome-AI-Cybersecurity/blob/master/contributing.md) are always welcome !
+**A Collection For Cyber Security &amp; Machine Learning.**</br>
+Your [contributions](contributing.md) are always welcome !
 
 ## Repositories
 
