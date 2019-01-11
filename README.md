@@ -5,11 +5,11 @@
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
 
 ## Contents
-- [Dataset Repositories](#Dataset Repositories)
+- [Dataset Repositories](#dataset-repositories)
 - [Books](#Books)
 - [Speeches](#Speeches)
 - [Tutorials](#Tutorials)
-- [References for reseacher](#References for reseacher)
+- [References for reseacher](#references-for-reseacher)
 - [CC0 License](#License)
 
 ## Dataset Repositories
