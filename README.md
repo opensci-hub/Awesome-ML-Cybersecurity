@@ -1,7 +1,7 @@
-![Awesome-AI-Cybersecurity](awesome_ai_cybersecurity.png)
-# Awesome Artificial Intelligence & Cyber Security [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+![Awesome-ML-Cybersecurity](awesome_ai_cybersecurity.png)
+# Awesome Machine Learning & Cyber Security [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-**A curated list of Artificial Intelligence and Cybersecurity.**</br>
+**A curated list of Machine Learning and Cybersecurity.**</br>
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
 
 ## Contents
