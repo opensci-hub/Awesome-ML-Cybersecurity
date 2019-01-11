@@ -85,9 +85,13 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 ## Links Domain
 - [Coursera](https://www.coursera.org/)
 - [Blackhat](https://www.blackhat.com/)
-- [Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking)
+- [Awesome Hacking](https://github.com/Hack-with-Github/Awesome-Hacking)
 - [Awesome Machine Learning for Cyber Security](https://github.com/jivoi/awesome-ml-for-cybersecurity)
-- [Awesome-AI-Security](https://github.com/RandomAdversary/Awesome-AI-Security)
+- [Awesome AI Security](https://github.com/RandomAdversary/Awesome-AI-Security)
+- [AI News](https://artificialintelligence-news.com/)
+- [MIT News](http://news.mit.edu/topic/artificial-intelligence2)
+- [DeepMind](https://deepmind.com/)
+- [OpenAI](https://openai.com/)
 
 ## References for reseacher
 [1] [SSCNets: A Selective Sobel Convolution-based Technique to Enhance the Robustness of Deep Neural Networks against Security Attacks](https://arxiv.org/ftp/arxiv/papers/1811/1811.01443.pdf)<br/>
