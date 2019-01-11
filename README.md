@@ -10,7 +10,8 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 - [Speeches](#Speeches)
 - [Tutorials](#Tutorials)
 - [References for reseacher](#references-for-reseacher)
-- [Deep Reinforcement Learning Papers](#Deep-Reinforcement-Learning-Papers)
+- [Deep Learning Papers](#deep-learning-papers)
+- [Deep Reinforcement Learning Papers](#deep-reinforcement-learning-papers)
 ---
 - [CC0 License](#License)
 
@@ -105,6 +106,14 @@ Character-level CNN](https://arxiv.org/pdf/1811.08641.pdf)<br/>
 [25] [Building a dynamic reputation system for dns](http://www.covert.io/research-papers/security/Notos%20-%20Building%20a%20dynamic%20reputation%20system%20for%20dns.pdf)<br/>
 [26] [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/pdf/1810.04805.pdf) 
 
+## Deep Learning Papers
+- [FaceNet: A Unified Embedding for Face Recognition and Clustering](https://arxiv.org/abs/1503.03832), F. Schroff et al., arXiv, 2015.
+- [Deep Residual Learning for Image Recognition](https://arxiv.org/abs/1512.03385), K. He et al., arXiv, 2015.
+- [Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning](https://arxiv.org/abs/1602.07261), C. Szegedy et al., arXiv, 2016.
+- [Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks](https://arxiv.org/abs/1511.06434), A. Radford et al., arXiv, 2015.
+- [Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks](https://arxiv.org/abs/1506.01497), S. Ren et al., arXiv, 2015.
+- [Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks](https://arxiv.org/abs/1511.06434), A. Radford et al., arXiv, 2015.
+
 ## Deep Reinforcement Learning Papers
 - [Deep Recurrent Q-Learning for Partially Observable MDPs](https://arxiv.org/abs/1507.06527),M. Hausknecht and P. Stone, arXiv, 2015.
 - [How to Discount Deep Reinforcement Learning: Towards New Dynamic Strategies](https://arxiv.org/abs/1512.02011), V. François-Lavet et al., NIPS Workshop, 
@@ -117,11 +126,13 @@ Character-level CNN](https://arxiv.org/pdf/1811.08641.pdf)<br/>
 - [Dynamic Frame skip Deep Q Network](https://arxiv.org/abs/1605.05365), A. S. Lakshminarayanan et al., IJCAI Deep RL Workshop, 2016.
 - [Control of Memory, Active Perception, and Action in Minecraft](https://arxiv.org/abs/1605.09128), J. Oh et al., ICML, 2016.
 - [Deep Reinforcement Learning with Double Q-learning](https://arxiv.org/abs/1509.06461), H. van Hasselt et al., arXiv, 2015.
-- [Uncertainty-Based Out-of-Distribution Detection in Deep Reinforcement Learning](https://arxiv.org/abs/1901.02219), A. Sedlmeier et al., arXiv, 2019
+- [Uncertainty-Based Out-of-Distribution Detection in Deep Reinforcement Learning](https://arxiv.org/abs/1901.02219), A. Sedlmeier et al., arXiv, 2019.
 - [Recurrent Reinforcement Learning: A Hybrid Approach](https://arxiv.org/abs/1509.03044), X. Li et al., arXiv, 2015.
-- [Adversarial Reinforcement Learning for Observer Design in Autonomous Systems under Cyber Attacks](https://arxiv.org/abs/1809.06784), A. Gupta et al, arXiv, 2018
-- [The History Began from AlexNet: A Comprehensive Survey on Deep Learning Approaches](https://arxiv.org/abs/1803.01164), M.Z. Alom et al., arXiv, 2018
+- [Adversarial Reinforcement Learning for Observer Design in Autonomous Systems under Cyber Attacks](https://arxiv.org/abs/1809.06784), A. Gupta et al, arXiv, 2018.
+- [The History Began from AlexNet: A Comprehensive Survey on Deep Learning Approaches](https://arxiv.org/abs/1803.01164), M.Z. Alom et al., arXiv, 2018.
+- [Unifying Count-Based Exploration and Intrinsic Motivation](https://arxiv.org/abs/1606.01868), M. G. Bellemare et al., arXiv, 2016.
+- [Benchmarking Deep Reinforcement Learning for Continuous Control](https://arxiv.org/abs/1604.06778), Y. Duan et al., ICML, 2016.
 
 ## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0)
-> To the extent possible under law, [Noa Swartz ](https://github.com/fetaxyu) has waived all copyright and related or neighboring rights to this work.
+> To the extent possible under law, [Noa Swartz](https://github.com/fetaxyu) has waived all copyright and related or neighboring rights to this work.
