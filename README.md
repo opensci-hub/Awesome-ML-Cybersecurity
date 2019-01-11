@@ -1,9 +1,9 @@
 # Awesome-AI-Cybersecurity [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-## A Collection For Cyber Security &amp; Machine Learning.
+** A Collection For Cyber Security &amp; Machine Learning. **
 Your [contributions](https://github.com/fetaxyu/Awesome-AI-Cybersecurity/blob/master/contributing.md) are always welcome !
 
-### Repositories
+## Repositories
 
 | Repository | Description |
 |:----:|:----:|
@@ -25,14 +25,14 @@ Your [contributions](https://github.com/fetaxyu/Awesome-AI-Cybersecurity/blob/ma
 | [Publicly available PCAP files](http://www.netresec.com/?page=PcapFiles) | This is a list of public packet capture repositories, which are freely available on the Internet. |
 | [Masquerading User Data](http://www.schonlau.net/)| A data set with seeded masquerading users to compare various intrusion detection methods. |
 
-### Books
+## Books
 1. [Data Mining and Machine Learning in Cybersecurity](https://www.amazon.com/Data-Mining-Machine-Learning-Cybersecurity/dp/1439839425)
 2. [Machine Learning and Data Mining for Computer Security](https://www.amazon.com/Machine-Learning-Mining-Computer-Security/dp/184628029X)
 3. [Network Anomaly Detection](https://www.amazon.com/Network-Anomaly-Detection-Learning-Perspective/dp/1466582081)
 4. [Deep Learning For Web Security](https://www.amazon.cn/dp/B0788XQ5SN)
 5. [Reinforcement Learning And GAN For Web Security](https://www.amazon.cn/dp/B07C9Y19BS)
 
-### Speeches
+## Speeches
 1. [Using Machine Learning to Support Information Security](https://www.youtube.com/watch?v=tukidI5vuBs)
 2. [Defending Networks with Incomplete Information](https://www.youtube.com/watch?v=36IT9VgGr0g)
 3. [Applying Machine Learning to Network Security Monitoring](https://www.youtube.com/watch?v=vy-jpFpm1AU)
@@ -55,7 +55,7 @@ Your [contributions](https://github.com/fetaxyu/Awesome-AI-Cybersecurity/blob/ma
 20. [Applied Machine Learning: Defeating Modern Malicious Documents](https://www.youtube.com/watch?v=ZAuCEgA3itI)
 21. [FeatureSmith: Learning to Detect Malware by Mining the Security Literature](https://www.youtube.com/watch?v=ikaDWJhSMIU&feature=youtu.be)
 
-### Courses
+## Courses
 1. [Click Security Data Hacking Project](http://clicksecurity.github.io/data_hacking/)
 2. [Big Data and Data Science for Security and Fraud Detection](http://www.kdnuggets.com/2015/12/big-data-science-security-fraud-detection.html)
 3. [Using deep learning to break a Captcha system](https://deepmlblog.wordpress.com/2016/01/03/how-to-break-a-captcha-system/)
@@ -66,7 +66,7 @@ Your [contributions](https://github.com/fetaxyu/Awesome-AI-Cybersecurity/blob/ma
 8. [Data Mining for Cyber Security](http://web.stanford.edu/class/cs259d/)
 9. [Data Science and Machine Learning for Infosec](http://www.pentesteracademy.com/course?id=30)
 
-# References
+## References
 [1] [SSCNets: A Selective Sobel Convolution-based Technique to Enhance the Robustness of Deep Neural Networks against Security Attacks](https://arxiv.org/ftp/arxiv/papers/1811/1811.01443.pdf)<br/>
 [2] [FaceNet: A Unified Embedding for Face Recognition and Clustering](https://arxiv.org/pdf/1503.03832.pdf)<br/>
 [3] [Distributed Representations of Words and Phrases
@@ -95,11 +95,6 @@ Character-level CNN](https://arxiv.org/pdf/1811.08641.pdf)<br/>
 [24] [Content-Agnostic Malware Protection](http://www.covert.io/research-papers/security/CAMP%20-%20Content%20Agnostic%20Malware%20Protection.pdf)<br/>
 [25] [Building a dynamic reputation system for dns](http://www.covert.io/research-papers/security/Notos%20-%20Building%20a%20dynamic%20reputation%20system%20for%20dns.pdf)<br/>
 [26] [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/pdf/1810.04805.pdf) 
-### Subsection
-
-- [List item](http://example.com)
-- [List item](http://example.com)
-
 
 ## Contribute
 
