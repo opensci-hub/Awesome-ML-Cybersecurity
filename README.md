@@ -13,6 +13,7 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 - [References for reseacher](#references-for-reseacher)
 - [Deep Learning Papers](#deep-learning-papers)
 - [Deep Reinforcement Learning Papers](#deep-reinforcement-learning-papers)
+- [Artificial Intelligence Resources on the Internet 2019](AIResources.pdf)
 ---
 - [CC0 License](#License)
 
