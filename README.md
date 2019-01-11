@@ -106,4 +106,4 @@ Character-level CNN](https://arxiv.org/pdf/1811.08641.pdf)<br/>
 
 ## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0)
-To the extent possible under law, [Noa](https://github.com/fetaxyu) has waived all copyright and related or neighboring rights to this work.
+> To the extent possible under law, [Noa](https://github.com/fetaxyu) has waived all copyright and related or neighboring rights to this work.
