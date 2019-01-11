@@ -1,7 +1,7 @@
 # Awesome-AI-Cybersecurity [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 **A Collection For Cyber Security &amp; Machine Learning.**</br>
-Your [contributions](contributing.md) are always welcome !
+Contributions welcome! Read the [contribution guidelines](contributing.md) first.
 
 ## Dataset Repositories
 | Repository | Description |
@@ -95,14 +95,6 @@ Character-level CNN](https://arxiv.org/pdf/1811.08641.pdf)<br/>
 [25] [Building a dynamic reputation system for dns](http://www.covert.io/research-papers/security/Notos%20-%20Building%20a%20dynamic%20reputation%20system%20for%20dns.pdf)<br/>
 [26] [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/pdf/1810.04805.pdf) 
 
-## Contribute
-
-Contributions welcome! Read the [contribution guidelines](contributing.md) first.
-
-
 ## License
-
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0)
 
-To the extent possible under law, fetaxyu has waived all copyright and
-related or neighboring rights to this work.
