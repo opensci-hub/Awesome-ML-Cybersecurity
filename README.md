@@ -6,9 +6,11 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 ## Contents
 - [Dataset Repositories](#dataset-repositories)
+- [Scholars Domain](#scholars-domain)
 - [Books](#Books)
 - [Talks](#Talks)
 - [Tutorials](#Tutorials)
+- [Open Source Project](#open-source-project)
 - [Links Domain](#links-domain)
 - [References for reseacher](#references-for-reseacher)
 - [Deep Learning Papers](#deep-learning-papers)
@@ -37,6 +39,21 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 | [DeepEnd Criminal data set in research](https://www.dropbox.com/sh/7fo4efxhpenexqp/AADHnRKtL6qdzCdRlPmJpS8Aa/CRIME?dl=0) | Criminal dataset in research|
 | [Publicly available PCAP files](http://www.netresec.com/?page=PcapFiles) | This is a list of public packet capture repositories, which are freely available on the Internet. |
 | [Masquerading User Data](http://www.schonlau.net/)| A data set with seeded masquerading users to compare various intrusion detection methods. |
+
+## Scholars Domain
+| Website | Description |
+|:----:|:----:|
+| [arXiv](https://arxiv.org/) | Open access to 1,486,985 e-prints in Physics, Mathematics, Computer Science, Quantitative Biology, Quantitative Finance, Statistics, Electrical Engineering and Systems Science, and Economics. |
+| [Search Studies](https://www.icpsr.umich.edu) | ICPSR advances and expands social and behavioral research, acting as a global leader in data stewardship and providing rich data resources and responsive educational opportunities for present and future generations.|
+| [Springer Link](https://link.springer.com/) | Providing researchers with access to millions of scientific documents from journals, books, series, protocols and reference works. |
+| [National Center for Biotechnology Information](https://www.ncbi.nlm.nih.gov/pmc/) | A free full-text archive of biomedical and life sciences journal literature at the U.S. National Institutes of Health's National Library of Medicine.  |
+| [EBSCO Host](http://connection.ebscohost.com/) | An intuitive online research platform used by thousands of institutions and millions of users worldwide. With quality databases and search features, EBSCOhost helps researchers of all kinds find the information they need fast. |
+| [IEEE Xplore Digital Library](https://ieeexplore.ieee.org/Xplore/home.jsp) | Delivering full text access to the world's highest quality technical literature in engineering and technology. |
+| [Wiley Online Library](https://onlinelibrary.wiley.com/) | Hosting one of the world's most extensive multidisciplinary collections of online resources covering life, health and physical sciences, social science, and the humanities. |
+| [Cogprints](http://cogprints.org/index.html) | An electronic archive for self-archive papers in any area of Psychology, Neuroscience, and Linguistics, and many areas of Computer Science. |
+| [ScienceDirect](https://www.sciencedirect.com/) |An large collection of Physical Sciences and Engineering publications, covering a range of disciplines, from the theoretical to the applied. |
+| [UC Irvine Machine Learning Repository](https://archive.ics.uci.edu/ml/index.php)| Maintain 463 data sets as a service to the machine learning community.|
+| [Scopus](https://www.scopus.com/) | The largest abstract and citation database of peer-reviewed literature: Scientific journals...|
 
 ## Books
 - [Artificial Intelligence In The 21st Century](https://www.amazon.com/Artificial-Intelligence-Century-Stephen-Lucci/dp/1683922239)
@@ -82,16 +99,20 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 - [Data Mining for Cyber Security](http://web.stanford.edu/class/cs259d/)
 - [Data Science and Machine Learning for Infosec](http://www.pentesteracademy.com/course?id=30)
 
+## Open Source Project
+- [Apache Spot](http://spot.incubator.apache.org/)
+
 ## Links Domain
-- [Coursera](https://www.coursera.org/)
 - [Blackhat](https://www.blackhat.com/)
-- [Awesome Hacking](https://github.com/Hack-with-Github/Awesome-Hacking)
-- [Awesome Machine Learning for Cyber Security](https://github.com/jivoi/awesome-ml-for-cybersecurity)
-- [Awesome AI Security](https://github.com/RandomAdversary/Awesome-AI-Security)
+- [Coursera](https://www.coursera.org/)
 - [AI News](https://artificialintelligence-news.com/)
 - [MIT News](http://news.mit.edu/topic/artificial-intelligence2)
 - [DeepMind](https://deepmind.com/)
 - [OpenAI](https://openai.com/)
+- [AIResources](http://www.airesources.info/)
+- [Awesome Hacking](https://github.com/Hack-with-Github/Awesome-Hacking)
+- [Awesome Machine Learning for Cyber Security](https://github.com/jivoi/awesome-ml-for-cybersecurity)
+- [Awesome AI Security](https://github.com/RandomAdversary/Awesome-AI-Security)
 
 ## References for reseacher
 [1] [SSCNets: A Selective Sobel Convolution-based Technique to Enhance the Robustness of Deep Neural Networks against Security Attacks](https://arxiv.org/ftp/arxiv/papers/1811/1811.01443.pdf)<br/>
