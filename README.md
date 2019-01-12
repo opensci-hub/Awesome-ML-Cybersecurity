@@ -19,7 +19,7 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 - [CC0 License](#License)
 ---
 
-## Dataset Repositories
+## [↑](#Contents)Dataset Repositories
 | Repository | Description |
 |:----:|:----:|
 | [Samples of Security Related Data](http://www.secrepo.com/) | samples of various types of Security related |
@@ -40,7 +40,7 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 | [Publicly available PCAP files](http://www.netresec.com/?page=PcapFiles) | This is a list of public packet capture repositories, which are freely available on the Internet. |
 | [Masquerading User Data](http://www.schonlau.net/)| A data set with seeded masquerading users to compare various intrusion detection methods. |
 
-## Scholars Domain
+## [↑](#Contents)Scholars Domain
 | Website | Description |
 |:----:|:----:|
 | [arXiv](https://arxiv.org/) | Open access to 1,486,985 e-prints in Physics, Mathematics, Computer Science, Quantitative Biology, Quantitative Finance, Statistics, Electrical Engineering and Systems Science, and Economics. |
@@ -56,7 +56,7 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 | [UC Irvine Machine Learning Repository](https://archive.ics.uci.edu/ml/index.php)| Maintain 463 data sets as a service to the machine learning community.|
 | [Scopus](https://www.scopus.com/) | The largest abstract and citation database of peer-reviewed literature: Scientific journals...|
 
-## Books
+## [↑](#Contents)Books
 - [Artificial Intelligence In The 21st Century](https://www.amazon.com/Artificial-Intelligence-Century-Stephen-Lucci/dp/1683922239)
 - [Deep Learning](https://www.amazon.com/Deep-Learning-Adaptive-Computation-Machine/dp/0262035618)
 - [Data Mining and Machine Learning in Cybersecurity](https://www.amazon.com/Data-Mining-Machine-Learning-Cybersecurity/dp/1439839425)
@@ -67,7 +67,7 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 - [Multi-Agent Machine Learning:A Reinforcement Approach](https://www.amazon.com/Multi-Agent-Machine-Learning-Reinforcement-Approach/dp/111836208X)
 - [Reinforcement Learning:State-of-the-Art](https://www.amazon.com/Reinforcement-Learning-State-Art-Optimization/dp/364227644X)
 
-## Talks
+## [↑](#Contents)Talks
 - [Using Machine Learning to Support Information Security](https://www.youtube.com/watch?v=tukidI5vuBs)
 - [Defending Networks with Incomplete Information](https://www.youtube.com/watch?v=36IT9VgGr0g)
 - [Applying Machine Learning to Network Security Monitoring](https://www.youtube.com/watch?v=vy-jpFpm1AU)
@@ -90,7 +90,7 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 - [Applied Machine Learning: Defeating Modern Malicious Documents](https://www.youtube.com/watch?v=ZAuCEgA3itI)
 - [FeatureSmith: Learning to Detect Malware by Mining the Security Literature](https://www.youtube.com/watch?v=ikaDWJhSMIU&feature=youtu.be)
 
-## Tutorials
+## [↑](#Contents)Tutorials
 - [Big Data and Data Science for Security and Fraud Detection](http://www.kdnuggets.com/2015/12/big-data-science-security-fraud-detection.html)
 - [Using deep learning to break a Captcha system](https://deepmlblog.wordpress.com/2016/01/03/how-to-break-a-captcha-system/)
 - [Data mining for network security and intrusion detection](https://www.r-bloggers.com/data-mining-for-network-security-and-intrusion-detection/)
@@ -100,10 +100,10 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 - [Data Mining for Cyber Security](http://web.stanford.edu/class/cs259d/)
 - [Data Science and Machine Learning for Infosec](http://www.pentesteracademy.com/course?id=30)
 
-## Open Source Project
+## [↑](#Contents)Open Source Project
 - [Apache Spot](http://spot.incubator.apache.org/)
 
-## Links Domain
+## [↑](#Contents)Links Domain
 - [Blackhat](https://www.blackhat.com/)
 - [Coursera](https://www.coursera.org/)
 - [AI News](https://artificialintelligence-news.com/)
@@ -115,7 +115,7 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 - [Awesome Machine Learning for Cyber Security](https://github.com/jivoi/awesome-ml-for-cybersecurity)
 - [Awesome AI Security](https://github.com/RandomAdversary/Awesome-AI-Security)
 
-## References for reseacher
+## [↑](#Contents)References for reseacher
 [1] [SSCNets: A Selective Sobel Convolution-based Technique to Enhance the Robustness of Deep Neural Networks against Security Attacks](https://arxiv.org/ftp/arxiv/papers/1811/1811.01443.pdf)<br/>
 [2] [FaceNet: A Unified Embedding for Face Recognition and Clustering](https://arxiv.org/pdf/1503.03832.pdf)<br/>
 [3] [Distributed Representations of Words and Phrases
@@ -145,7 +145,7 @@ Character-level CNN](https://arxiv.org/pdf/1811.08641.pdf)<br/>
 [25] [Building a dynamic reputation system for dns](http://www.covert.io/research-papers/security/Notos%20-%20Building%20a%20dynamic%20reputation%20system%20for%20dns.pdf)<br/>
 [26] [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/pdf/1810.04805.pdf) 
 
-## Deep Learning Papers
+## [↑](#Contents)Deep Learning Papers
 - [FaceNet: A Unified Embedding for Face Recognition and Clustering](https://arxiv.org/abs/1503.03832), F. Schroff et al., arXiv, 2015.
 - [Deep Residual Learning for Image Recognition](https://arxiv.org/abs/1512.03385), K. He et al., arXiv, 2015.
 - [Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning](https://arxiv.org/abs/1602.07261), C. Szegedy et al., arXiv, 2016.
@@ -153,7 +153,7 @@ Character-level CNN](https://arxiv.org/pdf/1811.08641.pdf)<br/>
 - [Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks](https://arxiv.org/abs/1506.01497), S. Ren et al., arXiv, 2015.
 - [Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks](https://arxiv.org/abs/1511.06434), A. Radford et al., arXiv, 2015.
 
-## Deep Reinforcement Learning Papers
+## [↑](#Contents)Deep Reinforcement Learning Papers
 - [Deep Recurrent Q-Learning for Partially Observable MDPs](https://arxiv.org/abs/1507.06527),M. Hausknecht and P. Stone, arXiv, 2015.
 - [How to Discount Deep Reinforcement Learning: Towards New Dynamic Strategies](https://arxiv.org/abs/1512.02011), V. François-Lavet et al., NIPS Workshop, 
 - [Deep Exploration via Bootstrapped DQN](https://arxiv.org/abs/1602.04621), I. Osband et al., arXiv, 2016.
@@ -172,6 +172,6 @@ Character-level CNN](https://arxiv.org/pdf/1811.08641.pdf)<br/>
 - [Unifying Count-Based Exploration and Intrinsic Motivation](https://arxiv.org/abs/1606.01868), M. G. Bellemare et al., arXiv, 2016.
 - [Benchmarking Deep Reinforcement Learning for Continuous Control](https://arxiv.org/abs/1604.06778), Y. Duan et al., ICML, 2016.
 
-## License
+## [↑](#Contents)License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0)</br>
 To the extent possible under law, [Noa Swartz](https://github.com/fetaxyu) has waived all copyright and related or neighboring rights to this work.
