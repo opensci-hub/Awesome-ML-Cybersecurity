@@ -7,7 +7,7 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 ## Contents
 - [Dataset Repositories](#dataset-repositories)
 - [Books](#Books)
-- [Speeches](#Speeches)
+- [Talks](#Talks)
 - [Tutorials](#Tutorials)
 - [Links Domain](#links-domain)
 - [References for reseacher](#references-for-reseacher)
@@ -49,7 +49,7 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 - [Multi-Agent Machine Learning:A Reinforcement Approach](https://www.amazon.com/Multi-Agent-Machine-Learning-Reinforcement-Approach/dp/111836208X)
 - [Reinforcement Learning:State-of-the-Art](https://www.amazon.com/Reinforcement-Learning-State-Art-Optimization/dp/364227644X)
 
-## Speeches
+## Talks
 - [Using Machine Learning to Support Information Security](https://www.youtube.com/watch?v=tukidI5vuBs)
 - [Defending Networks with Incomplete Information](https://www.youtube.com/watch?v=36IT9VgGr0g)
 - [Applying Machine Learning to Network Security Monitoring](https://www.youtube.com/watch?v=vy-jpFpm1AU)
