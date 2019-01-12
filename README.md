@@ -45,6 +45,7 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 |:----:|:----:|
 | [arXiv](https://arxiv.org/) | Open access to 1,486,985 e-prints in Physics, Mathematics, Computer Science, Quantitative Biology, Quantitative Finance, Statistics, Electrical Engineering and Systems Science, and Economics. |
 | [Search Studies](https://www.icpsr.umich.edu) | ICPSR advances and expands social and behavioral research, acting as a global leader in data stewardship and providing rich data resources and responsive educational opportunities for present and future generations.|
+| [Nature Research](https://www.nature.com/) | Is the world’s leading multidisciplinary science journal |
 | [Springer Link](https://link.springer.com/) | Providing researchers with access to millions of scientific documents from journals, books, series, protocols and reference works. |
 | [National Center for Biotechnology Information](https://www.ncbi.nlm.nih.gov/pmc/) | A free full-text archive of biomedical and life sciences journal literature at the U.S. National Institutes of Health's National Library of Medicine.  |
 | [EBSCO Host](http://connection.ebscohost.com/) | An intuitive online research platform used by thousands of institutions and millions of users worldwide. With quality databases and search features, EBSCOhost helps researchers of all kinds find the information they need fast. |
