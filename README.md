@@ -5,6 +5,7 @@
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
 
 ## Contents
+- [Recommendations](#Recommendations)
 - [Dataset Repositories](#dataset-repositories)
 - [Scholars Domain](#scholars-domain)
 - [Books](#Books)
@@ -18,6 +19,12 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 - [Artificial Intelligence Resources on the Internet 2019](AIResources.pdf)
 - [CC0 License](#License)
 ---
+
+## [↑](#Contents)Recommendations
+- [Malthusian Reinforcement Learning](https://arxiv.org/abs/1812.07019), J.Z. Leibo et al., arXiv, 2018. 
+- [Learning Unsupervised Learning Rules](https://arxiv.org/abs/1804.00222), L. Metz et al., arXiv, 2018.
+- [GAN Dissection: Visualizing and Understanding Generative Adversarial Networks](https://arxiv.org/abs/1811.10597), D. Bau et al., arXiv, 2018.
+- [Neural Ordinary Differential Equations](https://arxiv.org/abs/1806.07366), R.T.Q. Chen et al., arXiv, 2018.
 
 ## [↑](#Contents)Dataset Repositories
 | Repository | Description |
@@ -106,6 +113,7 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 ## [↑](#Contents)Links Domain
 - [Blackhat](https://www.blackhat.com/)
 - [Coursera](https://www.coursera.org/)
+- [FastAI](https://www.fast.ai/)
 - [AI News](https://artificialintelligence-news.com/)
 - [MIT News](http://news.mit.edu/topic/artificial-intelligence2)
 - [DeepMind](https://deepmind.com/)
