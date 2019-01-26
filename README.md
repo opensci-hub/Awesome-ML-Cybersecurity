@@ -71,8 +71,8 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 - [Network Anomaly Detection](https://www.amazon.com/Network-Anomaly-Detection-Learning-Perspective/dp/1466582081)
 - [Deep Learning For Web Security](https://www.amazon.cn/dp/B0788XQ5SN)
 - [Reinforcement Learning And GAN For Web Security](https://www.amazon.cn/dp/B07C9Y19BS)
-- [Multi-Agent Machine Learning:A Reinforcement Approach](https://www.amazon.com/Multi-Agent-Machine-Learning-Reinforcement-Approach/dp/111836208X)
-- [Reinforcement Learning:State-of-the-Art](https://www.amazon.com/Reinforcement-Learning-State-Art-Optimization/dp/364227644X)
+- [Multi-Agent Machine Learning: A Reinforcement Approach](https://www.amazon.com/Multi-Agent-Machine-Learning-Reinforcement-Approach/dp/111836208X)
+- [Reinforcement Learning: State-of-the-Art](https://www.amazon.com/Reinforcement-Learning-State-Art-Optimization/dp/364227644X)
 
 ## [↑](#Contents)Talks
 - [Using Machine Learning to Support Information Security](https://www.youtube.com/watch?v=tukidI5vuBs)
